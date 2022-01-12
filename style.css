@@ -15,14 +15,20 @@ li{
   float: left;
 }
 li a{
+  text-align:center;
   display: block;
   color: purple;
-  padding: 0px 50px;
+  padding: 0px 130px;
 }
 
 li a:hover {
   background-color: anitquewhit;
   color: blue;
+}
+
+iframe{
+  border-style: dashed;
+  border-color: blue;
 }
 
 </html>
